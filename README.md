@@ -40,7 +40,14 @@ Programı çalıştırdığınızda konsolda aşağıdaki gibi bir çıktı gör
 Düz metin
 --- Kaydedilen Sistem Gunlukleri ---
 [1] Oct 24 10:45:01 server sshd[1234]: Accepted publickey for root
+
+
 [2] Oct 24 10:45:05 server kernel: [ 12.345] usb 1-1: new high-speed USB device
+
+
 [3] Oct 24 10:46:00 server cron[5678]: (root) CMD ( /usr/bin/task)
+
+
 [4] Oct 24 10:48:12 server sudo[9012]: user : TTY=pts/0 ; COMMAND=/bin/su
+
 ------------------------------------
