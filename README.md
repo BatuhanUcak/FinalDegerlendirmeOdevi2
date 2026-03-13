@@ -39,6 +39,8 @@ Programı çalıştırdığınızda konsolda aşağıdaki gibi bir çıktı gör
 
 Düz metin
 --- Kaydedilen Sistem Gunlukleri ---
+
+
 [1] Oct 24 10:45:01 server sshd[1234]: Accepted publickey for root
 
 
